@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @psilDave
+- 👋 Hi, I’m Davi Pereira da Silva. 
 - 👀 I’m interested in Machine Learning, Smart Grids, and Automated Testing.
 - 🌱 I’m currently learning about Machine Learning applied to smart prostheses and Auutomated Testing.
 - 📫 How to reach me: linkedIn.
