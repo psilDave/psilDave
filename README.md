@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davi Pereira da Silva. 
-- 👀 I’m interested in Machine Learning, Automated Testing and Mobile Apps Development.
-- 🌱 I’m currently learning about Machine Learning, Automated Testing and Mobile Apps Development.
+- 👀 I’m interested in Machine Learning and Mobile Apps Development.
+- 🌱 I’m currently learning about Machine Learning and Mobile Apps Development.
 - 📫 How to reach me: LinkedIn.
 
 <!---
