@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Davi without "D" at the end. 
 - 👀 I’m interested in Mobile Apps Development and Machine Learning.
 - 🌱 I’m currently learning about Mobile Apps and Machine Learning.  
-- 🎶 - I really like music and working with it. 
+- 🎶 I really like music and working with it. 
 
 ## Skills    
 
